@@ -1,0 +1,4 @@
+requests>=2.28.1
+urlib3>=1.26.10
+fake-useragent>=0.1.11
+pyqt5>=5.15.7
